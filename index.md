@@ -8,3 +8,8 @@ I am currently studying computer science at Virginia Tech. Computer science has 
 Solves a sudoku puzzle using a backtracking algorithm. It also has the ability to take a screenshot of a puzzle and automatically solve it for you by using tesseract.
 
 [View the GitHub here](https://github.com/ReeceYankey/SudokuSolver)
+
+### SudokuSolver
+CanvasWebScraper.py launches a chrome emulator where you just have to log in to canvas and it will automatically grab existing grades. It then stores these into csv files, updates the Galipatia Database Template.xlsx accordingly, and saves it into a file called updated.xlsx. If you run UpdateFromCSV.py directly, it uses the existing csv files from a previous run to update the spreadsheet.
+
+[View the GitHub here](https://github.com/ReeceYankey/CanvasGradeChecker)
