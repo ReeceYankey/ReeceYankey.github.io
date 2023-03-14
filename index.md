@@ -13,3 +13,5 @@ Take a screenshot of an online sudoku puzzle and my program will solve it for yo
 CanvasWebScraper.py launches a chrome emulator where you just have to log in to canvas and it will automatically grab existing grades. It then stores these into csv files, updates the Galipatia Database Template.xlsx accordingly, and saves it into a file called updated.xlsx. If you run UpdateFromCSV.py directly, it uses the existing csv files from a previous run to update the spreadsheet.
 
 [View the GitHub here](https://github.com/ReeceYankey/CanvasGradeChecker)
+
+### Other Projects are not on this GitHub account and be asked for by request
