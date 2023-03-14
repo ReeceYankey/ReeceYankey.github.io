@@ -14,4 +14,4 @@ CanvasWebScraper.py launches a chrome emulator where you just have to log in to 
 
 [View the GitHub here](https://github.com/ReeceYankey/CanvasGradeChecker)
 
-### Other Projects are not on this GitHub account and be asked for by request
+### Other Projects are not on this GitHub account and can be accessed by request
